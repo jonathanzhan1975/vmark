@@ -29,7 +29,7 @@
   {
     "date": "2026-03-12",
     "runs": 3,
-    "cost_usd": 13.80,
+    "cost_usd": 13.8,
     "input_tokens": 6747,
     "output_tokens": 23136,
     "cache_creation_tokens": 353477,
@@ -74,7 +74,7 @@
   {
     "date": "2026-03-17",
     "runs": 6,
-    "cost_usd": 19.20,
+    "cost_usd": 19.2,
     "input_tokens": 137,
     "output_tokens": 34746,
     "cache_creation_tokens": 258173,
@@ -209,10 +209,10 @@
   {
     "date": "2026-04-03",
     "runs": 2,
-    "cost_usd": 12.35,
-    "input_tokens": 21,
-    "output_tokens": 4158,
-    "cache_creation_tokens": 52852,
-    "cache_read_tokens": 917277
+    "cost_usd": 6.70519445,
+    "input_tokens": 23,
+    "output_tokens": 8556,
+    "cache_creation_tokens": 135666,
+    "cache_read_tokens": 1132038
   }
 ]
