@@ -1,0 +1,11 @@
+[
+  {
+    "date": "2026-04-03",
+    "runs": 2,
+    "cost_usd": 12.348765199999997,
+    "input_tokens": 21,
+    "output_tokens": 4158,
+    "cache_creation_tokens": 52852,
+    "cache_read_tokens": 917277
+  }
+]
