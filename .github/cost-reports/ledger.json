@@ -358,5 +358,14 @@
     "output_tokens": 5949,
     "cache_creation_tokens": 67539,
     "cache_read_tokens": 2360297
+  },
+  {
+    "date": "2026-04-20",
+    "runs": 2,
+    "cost_usd": 4.783643649999999,
+    "input_tokens": 20,
+    "output_tokens": 2946,
+    "cache_creation_tokens": 56197,
+    "cache_read_tokens": 943419
   }
 ]
